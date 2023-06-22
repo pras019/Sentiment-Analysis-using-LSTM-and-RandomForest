@@ -5,5 +5,8 @@ This project was done in order to create a sentiment analysis with the given dat
 
 <img width="855" alt="Screenshot 2023-06-22 at 15 24 30" src="https://github.com/pras019/Sentiment-Analysis-using-LSTM-and-RandomForest/assets/40199695/4d8bb7ec-632b-4ff9-8251-d2d49f90cef7">
 
+Using LSTM
 
 <img width="596" alt="Screenshot 2023-06-22 at 15 24 18" src="https://github.com/pras019/Sentiment-Analysis-using-LSTM-and-RandomForest/assets/40199695/a50282e5-0a20-4f0d-9be6-877ce07a9a12">
+
+Using RandomForest
